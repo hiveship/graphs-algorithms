@@ -1,5 +1,3 @@
-# Graphs
-
 Implémentation en Java d'une structure de graphe et de deux algorithmes associés : Dijkstra et Warshall.
 
 # Structure
